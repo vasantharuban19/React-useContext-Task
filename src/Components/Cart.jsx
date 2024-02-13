@@ -81,9 +81,9 @@ function Cart() {
                       </div>
                       <button
                         type="button"
-                        className="btn btn-outline-success float-end my-3"
+                        className="btn btn-outline-danger float-end my-3"
                       >
-                        Add to Cart
+                        Remove
                       </button>
                     </div>
                   </div>
